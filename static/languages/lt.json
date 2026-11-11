@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kokia diabeto atvejų dalis ES lieka nediagnozuota?",
+  "subtitle": "2024 m. ES 26,4 % diabeto atvejų tarp 20–79 metų suaugusiųjų liko nediagnozuoti. Estijoje ši dalis buvo didžiausia – 48,7 %, o Čekijoje ir Vengrijoje – mažiausia – 16,7 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šie skaičiai rodo apytikslę 20–79 metų amžiaus žmonių, sergančių diabetu ir kuriems liga dar nebuvo diagnozuota, dalį, o ne visos populiacijos dalį. Įvertinimai pagrįsti turimais nacionaliniais tyrimais ir gali būti ekstrapoliuoti iš regioninių vidurkių, jei nėra konkrečių šalių duomenų.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Tarptautinė diabeto federacija",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "20–79 metų amžiaus suaugusiųjų gyventojų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }

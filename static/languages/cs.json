@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jaký podíl případů cukrovky v EU zůstává nediagnostikován?",
+  "subtitle": "V roce 2024 zůstalo v EU 26,4 % případů cukrovky u dospělých ve věku 20 až 79 let nediagnostikováno. Estonsko zaznamenalo nejvyšší podíl s 48,7 %, zatímco Česko a Maďarsko měly nejnižší podíl s 16,7 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje představují odhadovaný podíl lidí ve věku 20 až 79 let žijících s diabetem, u kterých dosud nebyla diagnóza stanovena, nikoli podíl na celkové populaci. Odhady jsou založeny na dostupných národních studiích a v případech, kdy nejsou k dispozici údaje specifické pro danou zemi, je lze extrapolovat z regionálních průměrů.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Mezinárodní diabetická federace",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "dospělé populace ve věku 20–79 let",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }

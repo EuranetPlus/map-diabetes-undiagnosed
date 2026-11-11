@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Welk percentage van de diabetesgevallen in de EU wordt niet gediagnosticeerd?",
+  "subtitle": "In 2024 bleef 26,4% van de diabetesgevallen onder volwassenen van 20 tot 79 jaar in de EU ongediagnosticeerd. Estland had het hoogste percentage met 48,7%, terwijl Tsjechië en Hongarije het laagste percentage hadden met 16,7%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De cijfers vertegenwoordigen het geschatte percentage mensen tussen de 20 en 79 jaar met diabetes die nog niet gediagnosticeerd zijn, en niet het percentage van de totale bevolking. De schattingen zijn gebaseerd op beschikbare nationale studies en kunnen worden geëxtrapoleerd uit regionale gemiddelden wanneer landspecifieke gegevens niet beschikbaar zijn.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Internationale Diabetes Federatie",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de volwassen bevolking in de leeftijd van 20-79 jaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }

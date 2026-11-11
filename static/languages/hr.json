@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki je udio slučajeva dijabetesa koji ostaje nedijagnosticiran u EU?",
+  "subtitle": "U 2024. godini 26,4% slučajeva dijabetesa među odraslima u dobi od 20 do 79 godina u EU ostalo je nedijagnosticirano. Estonija je zabilježila najveći udio s 48,7%, dok su Češka i Mađarska imale najniži sa 16,7%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Brojke predstavljaju procijenjeni udio osoba u dobi od 20 do 79 godina koje žive s dijabetesom, a kojima još nije postavljena dijagnoza, a ne udio ukupne populacije. Procjene se temelje na dostupnim nacionalnim studijama i mogu se ekstrapolirati iz regionalnih prosjeka tamo gdje podaci specifični za pojedinu zemlju nisu dostupni.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Međunarodna dijabetička federacija",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "odraslog stanovništva u dobi od 20 do 79 godina",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }

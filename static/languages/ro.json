@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Ce procent din cazurile de diabet rămân nediagnosticate în UE?",
+  "subtitle": "În 2024, 26,4% din cazurile de diabet în rândul adulților cu vârsta cuprinsă între 20 și 79 de ani din UE au rămas nediagnosticate. Estonia a înregistrat cea mai mare pondere, de 48,7%, în timp ce Cehia și Ungaria au avut cea mai mică, de 16,7%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Cifrele reprezintă ponderea estimată a persoanelor cu vârste cuprinse între 20 și 79 de ani care trăiesc cu diabet zaharat și care nu au fost încă diagnosticate, mai degrabă decât ponderea din populația totală. Estimările se bazează pe studii naționale disponibile și pot fi extrapolate din mediile regionale în cazul în care datele specifice fiecărei țări nu sunt disponibile.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Federația Internațională de Diabet",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din populația adultă cu vârsta cuprinsă între 20 și 79 de ani",
   "tooltipExtraInfoLabel": "Click aici"
 }

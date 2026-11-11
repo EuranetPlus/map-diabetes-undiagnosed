@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaki odsetek przypadków cukrzycy pozostaje niezdiagnozowany w UE?",
+  "subtitle": "W 2024 roku 26,4% przypadków cukrzycy wśród dorosłych w wieku 20–79 lat w UE pozostawało niezdiagnozowanych. Najwyższy odsetek – 48,7% – odnotowała Estonia, a najniższy Czechy i Węgry – 16,7%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane przedstawiają szacunkowy odsetek osób w wieku 20–79 lat żyjących z cukrzycą, u których nie zdiagnozowano jeszcze tej choroby, a nie odsetek w całej populacji. Szacunki opierają się na dostępnych badaniach krajowych i mogą być ekstrapolowane ze średnich regionalnych, w przypadku gdy dane dla poszczególnych krajów są niedostępne.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Międzynarodowa Federacja Cukrzycowa",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "populacji dorosłych w wieku 20-79 lat",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }

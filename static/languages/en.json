@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "What share of diabetes cases go undiagnosed across the EU?",
+  "subtitle": "In 2024 26.4% of diabetes cases among adults aged 20 to 79 in the EU remained undiagnosed. Estonia recorded the highest share at 48.7%, while Czechia and Hungary had the lowest at 16.7%.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The figures represent the estimated share of people aged 20 to 79 living with diabetes who have not yet been diagnosed, rather than the share of the total population. Estimates are based on available national studies and may be extrapolated from regional averages where country-specific data is unavailable.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "International Diabetes Federation",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "of adult population aged 20-79",
   "tooltipExtraInfoLabel": "Click here"
 }

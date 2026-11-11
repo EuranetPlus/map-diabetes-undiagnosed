@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le pourcentage de cas de diabète non diagnostiqués dans l'UE ?",
+  "subtitle": "En 2024, 26,4 % des cas de diabète chez les adultes de 20 à 79 ans dans l'UE n'étaient pas diagnostiqués. L'Estonie affichait le taux le plus élevé (48,7 %), tandis que la Tchéquie et la Hongrie présentaient les taux les plus faibles (16,7 %).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Ces chiffres représentent la part estimée des personnes âgées de 20 à 79 ans atteintes de diabète non diagnostiqué, et non la part de la population totale. Ces estimations reposent sur les études nationales disponibles et peuvent être extrapolées à partir de moyennes régionales lorsque les données nationales font défaut.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Fédération internationale du diabète",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de la population adulte âgée de 20 à 79 ans",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }

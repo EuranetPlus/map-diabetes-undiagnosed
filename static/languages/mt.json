@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'sehem ta' każijiet ta' dijabete ma jiġux dijanjostikati madwar l-UE?",
+  "subtitle": "Fl-2024, 26.4% tal-każijiet tad-dijabete fost l-adulti ta’ bejn l-20 u d-79 sena fl-UE baqgħu mhux dijanjostikati. L-Estonja rreġistrat l-ogħla sehem b’48.7%, filwaqt li ċ-Ċekja u l-Ungerija kellhom l-inqas b’16.7%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri jirrappreżentaw is-sehem stmat ta’ persuni ta’ bejn l-20 u d-79 sena li jgħixu bid-dijabete u li għadhom ma ġewx dijanjostikati, aktar milli s-sehem tal-popolazzjoni totali. L-istimi huma bbażati fuq studji nazzjonali disponibbli u jistgħu jiġu estrapolati minn medji reġjonali fejn id-dejta speċifika għall-pajjiż ma tkunx disponibbli.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Federazzjoni Internazzjonali tad-Dijabete",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-popolazzjoni adulta ta' bejn l-20 u d-79 sena",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }

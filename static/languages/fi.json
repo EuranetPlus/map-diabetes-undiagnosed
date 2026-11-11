@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka suuri osa diabetestapauksista jää diagnosoimatta EU:ssa?",
+  "subtitle": "Vuonna 2024 EU:ssa 20–79-vuotiaiden aikuisten diabetestapauksista 26,4 % jäi diagnosoimatta. Virossa osuus oli suurin, 48,7 %, kun taas Tšekissä ja Unkarissa se oli pienin, 16,7 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luvut edustavat arvioitua osuutta 20–79-vuotiaista, joilla on vielä diagnosoimaton diabetes, eivätkä koko väestön osuutta. Arviot perustuvat saatavilla oleviin kansallisiin tutkimuksiin ja ne voidaan ekstrapoloida alueellisista keskiarvoista, jos maakohtaisia tietoja ei ole saatavilla.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Kansainvälinen diabetesliitto",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "20–79-vuotiaista aikuisväestöstä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }

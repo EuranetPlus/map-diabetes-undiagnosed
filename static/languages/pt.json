@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual a percentagem de casos de diabetes que não são diagnosticados em toda a UE?",
+  "subtitle": "Em 2024, 26,4% dos casos de diabetes entre adultos de 20 a 79 anos na UE permaneceram sem diagnóstico. A Estônia registrou a maior porcentagem, com 48,7%, enquanto a República Tcheca e a Hungria apresentaram as menores, com 16,7%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Os números representam a proporção estimada de pessoas entre 20 e 79 anos que vivem com diabetes e ainda não foram diagnosticadas, e não a proporção na população total. As estimativas são baseadas em estudos nacionais disponíveis e podem ser extrapoladas a partir de médias regionais quando não houver dados específicos de cada país.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Federação Internacional de Diabetes",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "da população adulta com idades entre 20 e 79 anos",
   "tooltipExtraInfoLabel": "Clique aqui"
 }

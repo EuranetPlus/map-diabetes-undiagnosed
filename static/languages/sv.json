@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Vilken andel av diabetesfallen förblir odiagnostiserade i EU?",
+  "subtitle": "År 2024 var 26,4 % av diabetesfallen bland vuxna i åldrarna 20 till 79 år i EU fortfarande odiagnostiserade. Estland hade den högsta andelen med 48,7 %, medan Tjeckien och Ungern hade den lägsta med 16,7 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna representerar den uppskattade andelen personer i åldern 20 till 79 år som lever med diabetes och som ännu inte har fått diagnosen, snarare än andelen av den totala befolkningen. Uppskattningarna baseras på tillgängliga nationella studier och kan extrapoleras från regionala genomsnitt där landsspecifika data inte är tillgängliga.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Internationella diabetesfederationen",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av den vuxna befolkningen i åldern 20–79",
   "tooltipExtraInfoLabel": "Klicka här"
 }

@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Qual è la percentuale di casi di diabete non diagnosticati nell'UE?",
+  "subtitle": "Nel 2024, il 26,4% dei casi di diabete tra gli adulti di età compresa tra 20 e 79 anni nell'UE non era stato diagnosticato. L'Estonia ha registrato la percentuale più alta, pari al 48,7%, mentre la Repubblica Ceca e l'Ungheria hanno avuto le percentuali più basse, entrambe del 16,7%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Le cifre rappresentano la quota stimata di persone di età compresa tra 20 e 79 anni affette da diabete che non hanno ancora ricevuto una diagnosi, e non la quota sulla popolazione totale. Le stime si basano su studi nazionali disponibili e possono essere estrapolate da medie regionali laddove non siano disponibili dati specifici per paese.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Federazione Internazionale del Diabete",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "della popolazione adulta di età compresa tra 20 e 79 anni",
   "tooltipExtraInfoLabel": "clicca qui"
 }

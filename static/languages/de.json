@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Welcher Anteil der Diabetesfälle bleibt in der EU unentdeckt?",
+  "subtitle": "Im Jahr 2024 blieben 26,4 % der Diabetesfälle bei Erwachsenen zwischen 20 und 79 Jahren in der EU unentdeckt. Estland verzeichnete mit 48,7 % den höchsten Anteil, während Tschechien und Ungarn mit 16,7 % den niedrigsten aufwiesen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Zahlen geben den geschätzten Anteil der 20- bis 79-Jährigen mit Diabetes an, bei denen die Erkrankung noch nicht diagnostiziert wurde, und nicht den Anteil an der Gesamtbevölkerung. Die Schätzungen basieren auf verfügbaren nationalen Studien und können, falls keine länderspezifischen Daten vorliegen, aus regionalen Durchschnittswerten hochgerechnet werden.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Internationale Diabetes-Föderation",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "der erwachsenen Bevölkerung im Alter von 20-79",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }

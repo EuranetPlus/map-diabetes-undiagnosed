@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cén sciar de chásanna diaibéiteas nach ndéantar diagnóis orthu ar fud an AE?",
+  "subtitle": "Sa bhliain 2024, níor diagnóisíodh 26.4% de chásanna diaibéiteas i measc daoine fásta idir 20 agus 79 bliain d'aois san AE. Bhí an sciar is airde ag an Eastóin ag 48.7%, agus bhí an sciar is ísle ag an tSeicia agus ag an Ungáir ag 16.7%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn na figiúirí an sciar measta de dhaoine idir 20 agus 79 bliain d'aois a bhfuil diaibéiteas orthu agus nár diagnóisíodh iad go fóill, seachas an sciar den daonra iomlán. Tá na meastacháin bunaithe ar staidéir náisiúnta atá ar fáil agus féadfar iad a eastóscadh ó mheáin réigiúnacha i gcás nach bhfuil sonraí sonracha tíre ar fáil.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Cónaidhm Idirnáisiúnta Diaibéiteas",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den daonra fásta idir 20 agus 79 bliain d'aois",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }

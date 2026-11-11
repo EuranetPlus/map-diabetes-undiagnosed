@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "A cukorbetegség eseteinek mekkora aránya marad diagnosztizálatlan az EU-ban?",
+  "subtitle": "2024-ben az EU-ban a 20 és 79 év közötti felnőttek körében a cukorbetegség 26,4%-a maradt diagnosztizálatlan. Észtországban volt a legmagasabb az arány, 48,7%, míg Csehországban és Magyarországon a legalacsonyabb, 16,7%.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A számok a 20 és 79 év közötti, még nem diagnosztizált cukorbetegséggel élő emberek becsült arányát jelentik, nem pedig a teljes népesség arányát. A becslések a rendelkezésre álló országos tanulmányokon alapulnak, és a regionális átlagokból extrapolálhatók, amennyiben országspecifikus adatok nem állnak rendelkezésre.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Nemzetközi Diabétesz Szövetség",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a 20-79 éves felnőtt lakosság körében",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }

@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāda daļa diabēta gadījumu visā ES netiek diagnosticēti?",
+  "subtitle": "2024. gadā 26,4 % diabēta gadījumu pieaugušo vecumā no 20 līdz 79 gadiem ES palika nediagnosticēti. Igaunijā bija visaugstākais rādītājs — 48,7 %, savukārt Čehijā un Ungārijā — viszemākais — 16,7 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šie skaitļi atspoguļo aptuveno to cilvēku īpatsvaru vecumā no 20 līdz 79 gadiem, kuri dzīvo ar diabētu un kuriem vēl nav diagnosticēts diabēts, nevis kopējā iedzīvotāju skaita īpatsvaru. Aplēses ir balstītas uz pieejamajiem valsts mēroga pētījumiem un var tikt ekstrapolētas no reģionālajiem vidējiem rādītājiem, ja nav pieejami konkrētai valstij specifiski dati.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Starptautiskā diabēta federācija",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "pieaugušo iedzīvotāju vecumā no 20 līdz 79 gadiem",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
